@@ -9,8 +9,8 @@ body{
 }
 .contanier{
    
-    height: 70vh;
-    width: 70vh;
+    height: 60vh;
+    width: 70vw;
     margin: auto;
     
 }
@@ -38,7 +38,13 @@ body{
     color: #300808;
     background-color: #07e5e5;
 }
+.control{
+    width: 70vw;
+    margin: auto;
+    padding: auto;
+}
 .reset{
+    
     width: 26vh;
     height: 50px;
     font-size: 30px;
